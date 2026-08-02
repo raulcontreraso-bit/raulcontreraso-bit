@@ -15,6 +15,7 @@ Currently pursuing an **MS in Web Development**.
 _Focus: Hands-on labs, Fiori prototyping, and backend engineering._
 
 - [**Python Engineering**](https://gemini.google.com/app/cs-engineer-workspace/02_python/ "null"): FastAPI, data integration, and automation.
+- [Python Engineering](https://github.com/raulcontreraso-bit/cs-engineer-workspace/tree/main/02_computer_languages/01_python/01_core_python): FastAPI, data integration, and automation.
     
 - [**SAP Fiori Prototypes**](https://gemini.google.com/app/cs-engineer-workspace/03_fiori/ "null"): Responsive UI5/Fiori components bridging legacy S/4HANA systems.
     
