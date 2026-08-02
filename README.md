@@ -1,3 +1,4 @@
+user@rc-workspace:~$ cat about_me.txt
 ## Hi there 👋
 
 
