@@ -104,4 +104,15 @@ An index of my learning materials, categorized for easy access.
         
     - **Status:** 📖 _Reading_
 
+# Frontend Development Resources
+
+| Course / Logo | Name | Link |
+| :--- | :--- | :--- |
+| ![Scrimba](https://scrimba.com/favicon.ico) | Scrimba Frontend Career Path | [View Course](https://scrimba.com/learn/frontend) |
+| ![freeCodeCamp](https://www.freecodecamp.org/favicon.ico) | freeCodeCamp Curriculum | [View Course](https://www.freecodecamp.org/learn/) |
+| ![The Odin Project](https://www.theodinproject.com/favicon.ico) | The Odin Project Foundations | [View Course](https://www.theodinproject.com/paths/foundations/courses/foundations) |
+| ![MDN Web Docs](https://developer.mozilla.org/favicon-48x48.png) | MDN Learn Web Development | [View Course](https://developer.mozilla.org/en-US/docs/Learn) |
+
+
+
 
