@@ -104,6 +104,10 @@ An index of my learning materials, categorized for easy access.
         
     - **Status:** 📖 _Reading_
 
+
+
+
+---
 # Frontend Development Resources
 
 | Course / Logo | Name | Link |
